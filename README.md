@@ -27,4 +27,4 @@ This is a classic implementation of the Rock Paper Scissors game. It allows user
 
 ## 📷 Preview
 
-<img src="./images/preview.jpg" width="600" alt="Game Preview"/>
+<img src="preview.jpg" width="600" alt="Game Preview"/>
